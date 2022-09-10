@@ -10,3 +10,4 @@ ZCZC W00 200 L02 ZOOM meetings related
 ZCZC W00 480 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 120 L05 Quiz related
 ZCZC W01 240 L11 Assignment #01
+ZCZC W01 10 L05 Quiz related
