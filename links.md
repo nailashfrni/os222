@@ -13,13 +13,10 @@ permalink: LINKS/
 
 # LINKS
 
-1. [What is Operating Systems?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
-<br>
+1. [What is Operating Systems?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
 Operating system is a software that manages all the components of the computer, including software and hardware. But, what exatcly they do? What types of operating systems are there?
-<br><br>
 
-2. [Basic Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
-<br>
+2. [Basic Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)<br>
 Are you new to Linux? Don't worry, here are some basic command on Linux that could help your work.
 
 <br>
