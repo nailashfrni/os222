@@ -3,7 +3,7 @@
 ## By Naila Shafirni Hidayat
 
 [HOME]( {{ site.baseurl}}/) ---
-[LINKS]({{ site.baseurl }/LINKS/}) ---
+[LINKS]({{ site.baseurl })/LINKS/}) ---
 [LOG](https://nailashfrni.github.io/os222/TXT/mylog.txt) ---
 [TARBALL] () ---
 [GITHUB] ({{ site.githublink }})
