@@ -6,7 +6,7 @@ permalink: LINKS/
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL]() ---
+[TARBALL]( {{site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
@@ -18,9 +18,5 @@ Operating system is a software that manages all the components of the computer, 
 
 2. [Basic Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)<br>
 Are you new to Linux? Don't worry, here are some basic command on Linux that could help your work.
-
 <br>
-<br>
-
 <hr>
-

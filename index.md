@@ -1,10 +1,10 @@
-### OS 222: Operating Systems 2022-2
 ---
+This is my Operating System Course Github Page! Take a look on **LINKS** to see several resources that could help your understanding.
 
-[HOME]( {{ site.baseurl }}/) ---
+[HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]( {{ site.myloglink }} ) ---
-[TARBALL] () ---
-[GITHUB] ({{ site.githublink }})
+[LOG]({{ site.myloglink }}) ---
+[TARBALL]({{ site.tblink }}) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <br>
