@@ -4,7 +4,7 @@
 
 [HOME]( {{ site.baseurl}}/) ---
 [LINKS]({{ site.baseurl })/LINKS/}) ---
-[LOG](https://nailashfrni.github.io/os222/TXT/mylog.txt) ---
+[LOG]( {{ site.myloglink }} ) ---
 [TARBALL] () ---
 [GITHUB] ({{ site.githublink }})
 <br>

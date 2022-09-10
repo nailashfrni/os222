@@ -1,10 +1,10 @@
 # os222
 Operating Systems 2022-2 (Odd Semester 22/23)
 
-[Github Page](https://github/io/os222/) ---
+[Github Page]({{ site.githubpagelink }}) ---
 [TARBALL]() ---
-[myLOG](TXT/mylog.txt) ---
-[Github](https://github.com/nailashfrni/os222) ---
+[myLOG]({{ site.myloglink }}) ---
+[Github]({{ site.githublink }}) ---
 <br><br>
 <hr>
-Made by Naila
+Made by {{ site.author }}
