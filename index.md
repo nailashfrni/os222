@@ -8,4 +8,3 @@
 [GITHUB] ({{ site.githublink }})
 <br>
 <br>
-<hr><hr>
