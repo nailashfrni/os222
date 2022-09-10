@@ -1,10 +1,13 @@
 ---
-This is my Operating System Course Github Page! Take a look on **LINKS** to see several resources that could help your understanding.
-
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>-
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.myloglink }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL]({{ site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
-<br>
+<hr>
+This is my Operating System course Github Page!
+<br> Take a look on **LINKS** to see several resources that could help your understanding.
+<hr><br>
