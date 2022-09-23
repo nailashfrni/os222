@@ -8,8 +8,12 @@
 [TARBALL]({{ site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
+<hr>
 
-### This is my Operating System course Github Page!
+## This is my Operating System course Github Page
+
+Welcome everyone!🎇✨
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
