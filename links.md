@@ -31,4 +31,19 @@ Safe doesn't have to be complicated. By making a few changes, you can protect yo
 3. [C Syntax 101](https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm)<br>
 C-language is one of the programming languages that is still often used, even though it can be said _'The Ancient One'_. However, if you've never learned it, don't worry, here are some basic C language syntaxes.
 <br>
+
+### 🎠 **Week 03**
+1. [How Files are Organized in Our Computer](https://www.techtarget.com/searchstorage/definition/file-system)<br>
+When we using our computer, we always take care of managing files and directories. However, have you ever thought about how these files are stored in our computer system? How can we retrieve a file easily whilst there are a lot of files in our computer?
+
+2. [Various File Allocation Methods, Which One is the Best?](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+There are many different file allocation methods that can be implemented on our computer. However, which one is actually the best? What are the advantages and disadvantages of each method?
+
+3. [Grep Command in Linux w/ Examples](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
+Grep is one of the most powerful Linux commands. Grep is used to filter files or lines in a file that match the desired pattern. Combining grep with other commands like wc (word count) will be very useful to extract informations.
+
+<br>
 <hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>

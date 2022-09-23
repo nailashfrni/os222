@@ -9,6 +9,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is my Operating System course Github Page!
-<br> Take a look on **LINKS** to see several resources that could help your understanding.
-<hr><br>
+## This is my Operating System course Github Page!
+<br>
+
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
