@@ -52,6 +52,16 @@ This YouTube video explains the concept of address binding that occurs in the op
 3. [Printf Format Cheat Sheet](https://alvinalexander.com/programming/printf-format-cheat-sheet/)<br>
 There are lots of placeholders for print formatting in C language. This link covers all types of formatting, from simple to complex.
 
+### 🏝 **Week 05**
+1. [What is Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Virtual memory is an allocation scheme which makes secondary memory looks like main memory that can be addressed and used in program. The link explained generally about mapping scheme mentioned.
+
+2. [Demand Paging and Thrashing](https://www.javatpoint.com/os-demand-paging)<br>
+Demand paging is a concept that keeps all pages of the frames in the secondary memory until they are required, then load to main memory. The link explained how demand paging works.
+ 
+3. [Pointer to an Array in C](https://www.tutorialspoint.com/pointer-to-an-array-in-c)<br>
+Pointer is an important part of a programming language. Pointers store a reference to an object in memory, including an array. The link explained how an array pointers in C is implemented.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

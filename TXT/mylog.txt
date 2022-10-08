@@ -31,3 +31,9 @@ ZCZC W04  30 L06 GSGS related
 ZCZC W04 120 L14 Assignment #04
 ZCZC W04  70 L01 SCELE related
 ZCZC W04   8 L05 Quiz 
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 110 L99 Face-to-face lecture
+ZCZC W05  30 L06 References related
+ZCZC W05 240 L15 Assignment #05
+ZCZC W05  40 L01 SCELE related
+ZCZC W05   8 L05 Quiz 
