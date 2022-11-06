@@ -62,6 +62,16 @@ Demand paging is a concept that keeps all pages of the frames in the secondary m
 3. [Pointer to an Array in C](https://www.tutorialspoint.com/pointer-to-an-array-in-c)<br>
 Pointer is an important part of a programming language. Pointers store a reference to an object in memory, including an array. The link explained how an array pointers in C is implemented.
 
+### 👑 **Week 06**
+1. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+The link explains in detail about threads and concurrency procedures. The existence of multicore benefits us to be able to run several processes or threads simultaneously.
+
+2. [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes)<br>
+The link describes the procedure for executing a process, how it is executed by the operating system. Includes other explanation such as process memory section, process state, and process control block.
+ 
+3. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)<br>
+There are some problems to consider that may arise in designing multithreaded programs. These problems such as signal handling, cancellation, and thread polls.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

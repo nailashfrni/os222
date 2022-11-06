@@ -36,4 +36,10 @@ ZCZC W05 110 L99 Face-to-face lecture
 ZCZC W05  30 L06 References related
 ZCZC W05 240 L15 Assignment #05
 ZCZC W05  40 L01 SCELE related
-ZCZC W05   8 L05 Quiz 
+ZCZC W05   8 L05 Quiz
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 110 L99 Face-to-face lecture
+ZCZC W06  30 L06 References related
+ZCZC W06 120 L15 Assignment #06
+ZCZC W06  40 L01 SCELE related
+ZCZC W06   8 L05 Quiz 
