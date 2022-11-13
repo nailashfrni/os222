@@ -72,7 +72,7 @@ The link describes the procedure for executing a process, how it is executed by 
 3. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)<br>
 There are some problems to consider that may arise in designing multithreaded programs. These problems such as signal handling, cancellation, and thread polls.
 
-### 👑 **Week 07**
+### 🏜 **Week 07**
 1. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
 The link contains an overview of what the process synchronization in OS is and how it works. The link also explains several approaches to solving critical section problems such as Peterson's solution, synchronization hardware, mutex locks, and semaphore.
 
