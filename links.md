@@ -72,6 +72,16 @@ The link describes the procedure for executing a process, how it is executed by 
 3. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)<br>
 There are some problems to consider that may arise in designing multithreaded programs. These problems such as signal handling, cancellation, and thread polls.
 
+### 👑 **Week 07**
+1. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+The link contains an overview of what the process synchronization in OS is and how it works. The link also explains several approaches to solving critical section problems such as Peterson's solution, synchronization hardware, mutex locks, and semaphore.
+
+2. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Semaphore is a technique for managing concurrent processes that utilizes a simple integer value. Semaphores are used to solve critical section problems in the synchronization process. This link also describes the problems that can arise when implementing a semaphore.
+
+3. [What is Deadlock? (YouTube Video)](https://www.youtube.com/watch?v=onkWXaXAgbY&feature=emb_imp_woyt)<br>
+The video provides an overview of deadlocks and how to overcome them. Deadlock is likened to two trains moving towards each other and on the same track. Later, the train can't move anywhere when it's facing each other, same as deadlock process in OS.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
