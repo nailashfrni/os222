@@ -82,6 +82,16 @@ Semaphore is a technique for managing concurrent processes that utilizes a simpl
 3. [What is Deadlock? (YouTube Video)](https://www.youtube.com/watch?v=onkWXaXAgbY&feature=emb_imp_woyt)<br>
 The video provides an overview of deadlocks and how to overcome them. Deadlock is likened to two trains moving towards each other and on the same track. Later, the train can't move anywhere when it's facing each other, same as deadlock process in OS.
 
+### 🪐 **Week 08**
+1. [Linux From Scratch Book 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+The link contains the tutorial and a complete explanation of how to make Linux from Scratch. This link is also the main reference for the assignment guide in this Operating System Course.
+
+2. [What is Linux From Scratch?](https://www.makeuseof.com/tag/create-operating-system-linux-scratch-linux-si/)<br>
+Maybe you've often heard the term Linux From Scratch. However, do you know what it is? Linux From Scratch is a project to 'make' your own operating system according to your needs. No, not making your own system distribution, but rather a collection of source code documentation that is installed on your computer or virtual machine, to build a Linux operating system.
+
+3. [Is Linux From Scratch Worth It?](https://www.youtube.com/watch?v=1eOdaXS-wVE)<br>
+Doing Linux From Scratch can take a lot of time, depending on the hardware specifications used. Is the time spent on Linux from scratch worth the results?
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
